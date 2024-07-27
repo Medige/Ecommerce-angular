@@ -1,0 +1,205 @@
+{
+  "seller": [
+    {
+      "name": "siddu",
+      "email": "med@gmail.com",
+      "password": "1234",
+      "id": "1"
+    },
+    {
+      "name": "medige",
+      "email": "med@gmail.com",
+      "password": "123",
+      "id": "2"
+    },
+    {
+      "id": "dfbd",
+      "name": "siddu",
+      "email": "med@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "5e31",
+      "name": "Medige Sidhu",
+      "password": "siddu123",
+      "email": "siddu@gmail.com"
+    },
+    {
+      "id": "9986",
+      "name": "Medige Sidhu",
+      "password": "siddu123",
+      "email": "medige@gmail.com"
+    },
+    {
+      "id": "48d8",
+      "name": "shravan",
+      "email": "shravan@gmail.com",
+      "password": "shravan123"
+    },
+    {
+      "id": "adb1",
+      "name": "Medige Sidhu",
+      "password": "gjj",
+      "email": "test@example.us"
+    },
+    {
+      "id": "ff24",
+      "name": "tony",
+      "password": "tony",
+      "email": "tony@user.com"
+    }
+  ],
+  "products": [
+    {
+      "name": "samsung s24 ultra",
+      "price": "1900000",
+      "category": "mobiles",
+      "color": "Black",
+      "description": "best mobile in the world",
+      "image": "https://assets.sangeethamobiles.com/product_img/15742/1706079195_IiZ.jpg",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "name": "Samsung  S24",
+      "price": "100000",
+      "category": "mobiles",
+      "color": "gold",
+      "description": "2023 flagship mobile",
+      "image": "https://www.khoslaonline.com/wp-content/uploads/2024/01/SM-S921BZYC-S24-AMBER-YELLOW-8GB256GB-1.png"
+    },
+    {
+      "name": "Dell G16 Gaming Laptop",
+      "price": "150000",
+      "category": "Laptop",
+      "color": "Black",
+      "description": "Gaming Laptop g6",
+      "image": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/g-series/g16-7630/media-gallery/black/notebook-g16-7630-nt-black-gallery-1.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=536&qlt=100,1&resMode=sharp2&size=536,402&chrss=full",
+      "id": "3"
+    },
+    {
+      "id": "43b8",
+      "name": "Buds",
+      "price": "5000",
+      "category": "buds",
+      "color": "white/Black",
+      "description": "best hear buds in 2024",
+      "image": "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-buds-5/in-m/f97a754fed3c33beb2bdd061b254f094.png"
+    },
+    {
+      "id": "4ae0",
+      "name": "men watch",
+      "price": "7000",
+      "category": "watches",
+      "color": "gold",
+      "description": "good quality",
+      "image": "https://i.pinimg.com/736x/7b/ed/d9/7bedd9e49cf8339fbb1efbb96883b652.jpg"
+    },
+    {
+      "id": "4201",
+      "name": "Realme Tv",
+      "price": "20000",
+      "category": "Television",
+      "color": "Black",
+      "description": "Full HD LED Smart Android TV  (TV 43)",
+      "image": "https://rukminim2.flixcart.com/image/850/1000/kae95e80/television/r/g/m/realme-tv-43-original-imafrz78gbgx3zz5.jpeg?q=20&crop=false"
+    },
+    {
+      "name": "Fashion Clothes",
+      "price": "999-2999",
+      "category": "Clothes",
+      "color": "Various Colors",
+      "description": "All kinds Clothes available",
+      "image": "https://media.istockphoto.com/id/1404603483/photo/female-autumn-clothes-on-hangers-in-white-room.webp?b=1&s=170667a&w=0&k=20&c=H5oDGZDgKtTieO4OwU_HZlGMjtt--RuiHdxCswZOKvU=",
+      "id": "4493"
+    },
+    {
+      "id": "06c5",
+      "name": "shoes",
+      "price": "2999",
+      "category": "Footwear",
+      "color": "white",
+      "description": "footwear  product",
+      "image": "https://contents.mediadecathlon.com/p2393894/ae11c369077717da979826d33db65b1c/p2393894.jpg?format=auto&quality=70&f=650x0"
+    },
+    {
+      "id": "a061",
+      "name": "Mac moniter",
+      "price": "200000",
+      "category": "Electronices",
+      "color": "sliver",
+      "description": "apple product",
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/IMG_0142.jpeg"
+    }
+  ],
+  "users": [
+    {
+      "id": "40c2",
+      "name": "Medige Sidhu",
+      "email": "test@example.us",
+      "password": "123"
+    },
+    {
+      "id": "e860",
+      "name": "peter",
+      "email": "peter@exemplo.us",
+      "password": "peter"
+    },
+    {
+      "id": "3a60",
+      "name": "buuny",
+      "email": "bunny@exemplo.us",
+      "password": "123"
+    },
+    {
+      "id": "5436",
+      "name": "vegeta",
+      "email": "vegeta@pride.com",
+      "password": "vegeta"
+    },
+    {
+      "id": "d8ff",
+      "name": "goku",
+      "email": "goku@example.us",
+      "password": "goku"
+    },
+    {
+      "id": "3736",
+      "name": "peter",
+      "email": "test@example.us",
+      "password": "123"
+    }
+  ],
+  "cart": [
+    {
+      "id": "5103",
+      "name": "men watch",
+      "price": "7000",
+      "category": "watches",
+      "color": "gold",
+      "description": "good quality",
+      "image": "https://i.pinimg.com/736x/7b/ed/d9/7bedd9e49cf8339fbb1efbb96883b652.jpg",
+      "quantity": 1,
+      "productId": "4ae0",
+      "userId": "3a60"
+    }
+  ],
+  "orders": [
+    {
+      "id": "6418",
+      "email": "siddu@gmail.com",
+      "address": "Maisammaguda Dulapally, Kishore reddys boys hostel",
+      "contact": "55655",
+      "totalPrice": 150100,
+      "userId": "d8ff"
+    },
+    {
+      "id": "3572",
+      "email": "goku@example.us",
+      "address": "Maisammaguda Dulapally, Kishore reddys boys hostel",
+      "contact": "65665767",
+      "totalPrice": 1900100,
+      "userId": "d8ff"
+    }
+  ]
+}
